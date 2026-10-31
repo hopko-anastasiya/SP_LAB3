@@ -1,6 +1,8 @@
 # Лабораторна робота 3
 ## Виконано: Гопко Анастасія, ТТП-32
 
+**Посилання на відео-захист:** https://drive.google.com/file/d/1HEIUkVhRVLjd_xd9RE1UhDGdrEUhe0M5/view?usp=sharing
+
 1. Розбирає програму (лексер на Flex, LALR(1)-парсер на Bison) і будує AST.
 2. Виконує програму, обходячи AST (інтерпретатор).
 3. Генерує код на JavaScript (`out.js`).
